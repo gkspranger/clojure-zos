@@ -12,9 +12,9 @@
 
 ```shell
 /z/myzuser > java -jar hello-0.1.0-SNAPSHOT-standalone.jar
-MYZUSER.TEST.PS
-FB
-80
+  file name: MYZUSER.TEST.PS
+rec. format: FB
+rec. length: 80
 daddy,jim,49                                                            00000100
 mommy,jim,47                                                            00000200
 baby,jim,12                                                             00000300
